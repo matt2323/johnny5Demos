@@ -1,0 +1,6 @@
+Hey guys, here is the blog I got that example from
+http://blog.ricardofilipe.com/post/getting-started-arduino-johhny-five
+
+
+Make sure you get the code from here as socket.io has changed.
+https://github.com/magalhini/arduino-rgb-sockets
